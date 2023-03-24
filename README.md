@@ -1,5 +1,5 @@
 
-# DESAFIO DOG CSS DEVCLUB
+# PROJETO SITE LEONARDO
 
 Aplicação desenvolvida com intuito de treinamento do módulo CSS aprendido em aula, colocando em prática
 **ACESSE ATRAVÉS DO LINK:**
