@@ -16,5 +16,6 @@ Esse projeto foi desenvolvido utilizando:
 
 **PROJETO:**
 O site foi desenvolvido para testar conhecimentos em HTML e CSS trazendo um pouco da minha história e vivência para o mesmo meio
+
 **AUTOR:** Leonardo Bonato
 
